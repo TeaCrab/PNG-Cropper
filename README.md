@@ -1,5 +1,5 @@
 # PNG-Cropper
- Crop transparent PNG file down to none-transparent portions with relative size padding
+ Crop transparent PNG file down to their none-transparent portions with padding size relative to the overall size of the non-transparent portion.
 
 Simply drag all your PNG files onto _Portal.bat
 
