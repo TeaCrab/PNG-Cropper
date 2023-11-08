@@ -21,6 +21,6 @@ def process():
 
 # code.interact(local=locals())
 
-process()
-
-print("Process Completed.")
+if __name__ == "__main__":
+    process()
+    print("Process Completed.")
